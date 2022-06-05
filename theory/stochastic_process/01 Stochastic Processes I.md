@@ -111,4 +111,4 @@ or
 
 $Y_i  = -1$ probability 0.5
 
-For each t, $X_t = \sum_{i=1}^{t} Y_i$
+For each t, $X_t = \sum_{i=1}^tY_i$
