@@ -142,7 +142,7 @@ Expectation 1
 **이말이 무슨 말인가?**
 
 
-![eq02](images/randomwork1.png)
+![eq02](images/randomwork2.png)
 
 - Standrad deviation 
 
