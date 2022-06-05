@@ -4,7 +4,7 @@
 
 ## Content
 
--[Intrudoction](1.-Stochastic-Process란?-(Introduction))
+-[Intrudoction](#1.-Stochastic-Process란?-(Introduction))
 
 
 #### 1. Stochastic Process란? (Introduction) 
