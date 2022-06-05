@@ -168,9 +168,15 @@ Then
 
 $X_{t(i+1)} - X_{t(i)}$ are mutually independent.
 
+각 구간별로 독립.
+
 (iii) Staitionary 
 
-for all $h \leqslant 0 $
+for all $h \reqslant 1, t \rqeslant 0 $
+
+the distribution of $X_{t+h}-X_{t}$ is the same as the distribution of $X_h$
+
+일정 구간내 일어날 거동의 특성이 그 시작점의 영향을 받지 않음. 
 
 
 
