@@ -156,9 +156,9 @@ Expectation 1
 
 ### Property
 
-(i) Expectation of $X_k=0$
+- (i) Expectation of $X_k=0$
 
-(ii) Independent increment.
+- (ii) Independent increment.
 
 if look at these time 
 
@@ -170,7 +170,7 @@ $X_{t(i+1)} - X_{t(i)}$ are mutually independent.
 
 각 구간별로 독립.
 
-(iii) Staitionary 
+- (iii) Staitionary 
 
 for all $h \geqslant  1, t \geqslant 0 $
 
@@ -178,8 +178,10 @@ the distribution of $X_{t+h}-X_{t}$ is the same as the distribution of $X_h$
 
 일정 구간내 일어날 거동의 특성이 그 시작점의 영향을 받지 않음. 
 
+- (i) + (ii) : 구간끼리 overlap 없으면 독립.
 
-
+**대부분의 Stochastic process에서 위와 같은 property를 가짐.**
+ 
 
 
 
