@@ -103,6 +103,14 @@ How often will that happen?
 
 ## 2. Simple Randomwork
 
+[위키백과 무작위행보(random work)](https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%9E%91%EC%9C%84_%ED%96%89%EB%B3%B4)
+
+**1D simple randonwork**
+
+![randomwork](https://upload.wikimedia.org/wikipedia/commons/7/76/Random_Walk_example.png)
+
+- Definition 
+
 $Y_i$ 를 i.i.d. random variable 이라고 가정.
 
 $Y_i  = 1$ probability 0.5 
@@ -111,4 +119,22 @@ or
 
 $Y_i  = -1$ probability 0.5
 
-For each t, $X_t = \sum_{i=1}^tY_i$
+For each t, $X_t = \sum_{i=1}^tY_i, X_0 = 0$
+
+then, the sequence of random variables 
+
+$X_0, X_1, X_2 ....$
+
+### 중심 극한정리 측면에서 본 랜덤 워크 
+
+[위키백과 중심극한정리](https://ko.wikipedia.org/wiki/%EC%A4%91%EC%8B%AC_%EA%B7%B9%ED%95%9C_%EC%A0%95%EB%A6%AC)
+
+만약, t가 매우 큰 수라고 가정한다면? 
+
+variance 가 $1/t$
+
+standard deviation 이 $1/\sqrt{t}$
+
+
+
+
