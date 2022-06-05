@@ -14,7 +14,7 @@
 
 ## 1. Introduction
 
-#### Definition
+### Definition
 
 Collection of randomvariables indexed by time. 
 
@@ -27,7 +27,7 @@ continuous : $\{X_t\}$ t 가 컨티뉴얼.
 - 확률과정의 대안적 정의 2: probability distribution over a space of paths. 가능한 경로를 확률분포 적으로 정함.
 
 
-#### 확률과정의 예 
+### 확률과정의 예 
 
 1. 
 
@@ -83,7 +83,7 @@ Stochastic process는 다음과 같은 상황에서 쓰일 수도 있음.
 **Stochastic process는 위와 같이, 확률 분포적으로 접근하여 미래의 시점 t에서 어떤 값이 나올 지에 대해서 확률적으로 정의할 수는 있음.**
 
 
-#### Stochastic process가 할 수 있는 일?
+### Stochastic process가 할 수 있는 일?
 
 - (a) What are the dependencies in the sequence of the values?
 
@@ -99,7 +99,9 @@ How often will something extreme happen. like how often will a stock price drop 
 
 How often will that happen?
 
-#### 2. Randomwork
+---
+
+## 2. Randomwork
 
 
 
