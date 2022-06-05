@@ -3,7 +3,7 @@
 [Video Lecture : MIT OpenSource](https://www.youtube.com/watch?v=TuTmC8aOQJE)
 
 
-#### Stochastic Process란? 
+#### 1. Stochastic Process란? 
 
 Collection of randomvariables indexed by time. 
 
@@ -16,7 +16,7 @@ continuous : $\{X_t\}$ t 가 컨티뉴얼.
 - 확률과정의 대안적 정의 2: probability distribution over a space of paths. 가능한 경로를 확률분포 적으로 정함.
 
 
-확률과정의 예 
+#### 2. 확률과정의 예 
 
 1. 
 
