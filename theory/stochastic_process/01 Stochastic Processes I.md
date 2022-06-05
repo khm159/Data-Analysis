@@ -11,5 +11,20 @@ Collection of randomvariables indexed by time.
 
 descrete : $X_0$, $X_1$, .... 
 
-continuous : ${\{X_t\}}_{t\geqslant 0}$
+continuous : $\{X_t\}$ t 가 컨티뉴얼.
+
+확률과정의 예 1 
+
+$f(t) = t$ with probability 1
+
+$f(t) = t, \all t$ with probability 0.5
+
+$f(t) = -t, \all t$ with probability 0.5
+
+$for each t, f(t) = t$ with probability 0.5
+or $f(t) = -t$ with probability 0.5
+
+
+
+
 
