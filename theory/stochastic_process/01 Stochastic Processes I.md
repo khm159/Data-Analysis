@@ -105,11 +105,10 @@ How often will that happen?
 
 [위키백과 무작위행보(random work)](https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%9E%91%EC%9C%84_%ED%96%89%EB%B3%B4)
 
-**1D simple randonwork**
 
 ![randomwork](https://upload.wikimedia.org/wikipedia/commons/7/76/Random_Walk_example.png)
 
-- Definition 
+### Definition 
 
 $Y_i$ 를 i.i.d. random variable 이라고 가정.
 
@@ -153,6 +152,28 @@ Expectation 1
 갑자기 튄 값들중 가장 큰 값도 y=t, y=-t 직선을 넘지 못함.
 
 위와 같이 **해석적으로, 확률적으로 이야기할 수는 있음(물론 anomaly는 존재).** 
+
+
+### Property
+
+(i) Expectation of $X_k=0$
+
+(ii) Independent increment.
+
+if look at these time 
+
+$o = t_0 \leqslant t_1 \leqslant ... t_k $
+
+Then 
+
+$X_{t(i+1)} - X_{t(i)}$ are mutually independent.
+
+(iii) Staitionary 
+
+for all $h \leqslant 0 $
+
+
+
 
 
 
