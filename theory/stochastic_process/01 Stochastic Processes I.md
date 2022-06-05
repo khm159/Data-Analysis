@@ -23,13 +23,13 @@ continuous : $\{X_t\}$ t 가 컨티뉴얼.
 
 4. 
 
-    for each $t$, 
+for each $t$, 
 
-    $f(t) = t$ with probability 0.5
+$f(t) = t$ with probability 0.5
 
-    or
+or
 
-    $f(t) = -t$ with probability 0.5
+$f(t) = -t$ with probability 0.5
 
 
 
