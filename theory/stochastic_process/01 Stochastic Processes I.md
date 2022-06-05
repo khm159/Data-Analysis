@@ -2,8 +2,12 @@
 
 [Video Lecture : MIT OpenSource](https://www.youtube.com/watch?v=TuTmC8aOQJE)
 
+## Content
 
-#### 1. Stochastic Process란? 
+-[Intrudoction](1.-Stochastic-Process란?-(Introduction))
+
+
+#### 1. Stochastic Process란? (Introduction) 
 
 Collection of randomvariables indexed by time. 
 
@@ -54,6 +58,8 @@ $f(t) = -t$ with probability 0.5
 
 각 시점마다 t가 될수도 -t가 될 수도 있음. 
 
+관측해보면, 위아래로 진동하며 발산하는 듯한 그래프를 얻을 수 있을것. 
+
 
 4. 
 
@@ -66,6 +72,27 @@ Stochastic process는 다음과 같은 상황에서 쓰일 수도 있음.
 (2)의 경우, f(t)를 알고 있기 때문에, 손쉽게 예측가능.
 
 그러나 (3)은? 과거의 모든 값을 다 알고 있더라도, t나 -t가 될 것 같다는건 알지만, 미래의 예측은 사실상 어려움. 
+
+**Stochastic process는 위와 같이, 확률 분포적으로 접근하여 미래의 시점 t에서 어떤 값이 나올 지에 대해서 확률적으로 정의할 수는 있음.**
+
+
+#### Stochastic process가 할 수 있는 일?
+
+- (a) What are the dependencies in the sequence of the values?
+
+만약 과거부터 오늘까지의 모든 주식의 거래 가격을 알고 있다면, 미래 주식 가격에 대한 어떠한 경향성을 제시할 수 있다.  
+
+- (b) What is the long term behavior of the sequence?
+
+큰수의 법칙(the law of the large numbers), 중심극한정리(centural limit theorem)
+
+- (c) What are the booundary events?
+
+How often will something extreme happen. like how often will a stock price drop by more than 10% for a consecutive 5 days.
+
+How often will that happen?
+
+
 
 
 
