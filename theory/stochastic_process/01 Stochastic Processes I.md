@@ -172,7 +172,7 @@ $X_{t(i+1)} - X_{t(i)}$ are mutually independent.
 
 (iii) Staitionary 
 
-for all $h \reqslant 1, t \rqeslant 0 $
+for all $h \geqslant  1, t \geqslant 0 $
 
 the distribution of $X_{t+h}-X_{t}$ is the same as the distribution of $X_h$
 
