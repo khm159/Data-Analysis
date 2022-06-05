@@ -113,13 +113,13 @@ How often will that happen?
 
 $Y_i$ 를 i.i.d. random variable 이라고 가정.
 
-$Y_i  = 1$ probability 0.5 
 
-or 
+![eq02](images/eq02.png)
 
-$Y_i  = -1$ probability 0.5
+For each t, 
 
-For each t, ![eq01](images/eq01.png))
+![eq01](images/eq01.png)
+
 
 then, the sequence of random variables 
 
