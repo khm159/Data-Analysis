@@ -11,4 +11,4 @@ Collection of randomvariables indexed by time.
 
 descrete : $X_0$, $X_1$, .... 
 
-continuous : $\{X_t\}_{t\geqslant 0} $
+continuous : $\{X_t\} t\geqslant 0 $
