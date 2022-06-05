@@ -5,11 +5,16 @@
 ## Content
 
 - [Intrudoction](#1.-Stochastic-Process란?-(Introduction))
+  - [확률과정의 정의](#Definition)
+  - [확률과정의 예](#확률과정의-예)
+  - [확률과정이 할 수 있는 일](#stochastic-process가-할-수-있는-일)
 - [Randomwork](#2.-Randomwork)
 
 ---
 
-#### 1. Stochastic Process란? (Introduction) 
+## 1. Introduction
+
+#### Definition
 
 Collection of randomvariables indexed by time. 
 
@@ -22,7 +27,7 @@ continuous : $\{X_t\}$ t 가 컨티뉴얼.
 - 확률과정의 대안적 정의 2: probability distribution over a space of paths. 가능한 경로를 확률분포 적으로 정함.
 
 
-#### 2. 확률과정의 예 
+#### 확률과정의 예 
 
 1. 
 
@@ -93,8 +98,6 @@ Stochastic process는 다음과 같은 상황에서 쓰일 수도 있음.
 How often will something extreme happen. like how often will a stock price drop by more than 10% for a consecutive 5 days.
 
 How often will that happen?
-
-
 
 #### 2. Randomwork
 
