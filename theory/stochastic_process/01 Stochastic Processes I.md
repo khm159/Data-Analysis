@@ -119,7 +119,7 @@ or
 
 $Y_i  = -1$ probability 0.5
 
-For each t, $X_t = \sum_{i}^{t} Y_i , X_0 = 0$
+For each t, ![eq01](images/eq01.png))
 
 then, the sequence of random variables 
 
