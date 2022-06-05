@@ -131,9 +131,42 @@ $X_0, X_1, X_2 ....$
 
 만약, t가 매우 큰 수라고 가정한다면? 
 
-variance 가 $1/t$
+variance 가 $t$
 
-standard deviation 이 $1/\sqrt{t}$
+standard deviation 이 $\sqrt{t}$
+
+Expectation 1 
+
+이 된다. 
+
+**이말이 무슨 말인가?**
+
+
+![eq02](images/randomwork1.png)
+
+- Standrad deviation 
+
+충분히 큰 t 만큼 관측된 랜덤 워크는 standard deviation의 곡선을 따라갈 수 밖에 없다. (t에 대해서 $\sqrt t$ 또는 $-\sqrt t$)
+
+- Variance 
+
+갑자기 튄 값들중 가장 큰 값도 y=t, y=-t 직선을 넘지 못함.
+
+위와 같이 **해석적으로, 확률적으로 이야기할 수는 있음(물론 anomaly는 존재).** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
