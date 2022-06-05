@@ -4,8 +4,10 @@
 
 ## Content
 
--[Intrudoction](#1.-Stochastic-Process란?-(Introduction))
+- [Intrudoction](#1.-Stochastic-Process란?-(Introduction))
+- [Randomwork](#2.-Randomwork)
 
+---
 
 #### 1. Stochastic Process란? (Introduction) 
 
@@ -94,6 +96,7 @@ How often will that happen?
 
 
 
+#### 2. Randomwork
 
 
 
