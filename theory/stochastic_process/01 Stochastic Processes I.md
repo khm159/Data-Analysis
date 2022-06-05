@@ -8,7 +8,7 @@
   - [확률과정의 정의](#Definition)
   - [확률과정의 예](#확률과정의-예)
   - [확률과정이 할 수 있는 일](#stochastic-process가-할-수-있는-일)
-- [Randomwork](#2.-Randomwork)
+- [Simple Randomwork](#2-simple-randomwork)
 
 ---
 
@@ -101,7 +101,14 @@ How often will that happen?
 
 ---
 
-## 2. Randomwork
+## 2. Simple Randomwork
 
+$Y_i$ 를 i.i.d. random variable 이라고 가정.
 
+$Y_i  = 1$ probability 0.5 
 
+or 
+
+$Y_i  = -1$ probability 0.5
+
+For each t, $X_t = \sum_{i=1}^{t} Y_i$
