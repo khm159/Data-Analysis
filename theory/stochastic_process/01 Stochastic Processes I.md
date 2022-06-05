@@ -32,6 +32,8 @@ random 하지 않음. probability가 1. 랜덤 하지 않음.
 
 - $f(t) = -t, \forall t$ with probability 0.5
 
+![ex1](images/stochastic1_ex02.png)
+
 two possible paths you can take. 
 
 대안적 정의로 보면 2개의 pathway가 존재한다고 볼 수 있음. 
