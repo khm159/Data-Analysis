@@ -22,6 +22,9 @@ continuous : $\{X_t\}$ t 가 컨티뉴얼.
 
 - $f(t) = t, \forall t$ with probability 1
 
+![ex1]('images/stochastic1_ex01.png')
+
+
 random 하지 않음. probability가 1.
 
 2. 
